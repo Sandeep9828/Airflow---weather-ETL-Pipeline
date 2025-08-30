@@ -1,0 +1,3 @@
+# Extra Airflow providers
+apache-airflow-providers-http
+apache-airflow-providers-postgres
